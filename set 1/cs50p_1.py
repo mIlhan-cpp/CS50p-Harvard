@@ -4,7 +4,7 @@
 # if x>y:
 #     print('x bada hai')
 # elif x<y:
-#     print('x  chota hai')
+#     print('x chota hai')
 # else :
 #     print('x y  chota hai')
 
@@ -50,4 +50,4 @@ match name:
     case "ron":
         print("Bewafa ka mashooq")
     case default: #case _ does same
-        print("chal")    
+        print("chal!")    
